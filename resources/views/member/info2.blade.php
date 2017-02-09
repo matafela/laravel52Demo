@@ -1,0 +1,2 @@
+adfasdf
+{{$name}}{{$age}}
